@@ -8,6 +8,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bonjiorno");
+            Console.WriteLine("Como vc esta hoje");
+
+
 
             Console.ReadLine();
         }
