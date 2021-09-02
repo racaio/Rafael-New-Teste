@@ -9,6 +9,11 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bonjiorno");
             Console.WriteLine("Como vc esta hoje");
+            
+            for (int i = 1; i<10; i++)
+            {
+                Console.WriteLine("oi");
+            }
 
 
 
